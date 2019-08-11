@@ -1,4 +1,4 @@
-# Analysing the Wahl-O-Mat about the 2019 Saxony election
+# Analysing the Wahl-O-Mat about the 2019 Brandenburg election
 
 ### Results
 
